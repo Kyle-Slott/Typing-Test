@@ -1,0 +1,1 @@
+qwe qweStage stage = (Stage) textArea.getScene().getWindow(); Stage stage = (Stage) textArea.getScene().getWindow();Stage stage = (Stage) textArea.getScene().getWindow();Stage stage = (Stage) textArea.getScene().getWindow();Stage stage = (Stage) textArea.getScene().getWindow();Stage stage = (Stage) textArea.getScene().getWindow();
